@@ -3,6 +3,6 @@
     --cor-fontes :#000000;
 }
 .cabecalho{
-
-
+ background-color: var(--cor-fundo);
+ color: var(--cor-fontes) ;
 }
