@@ -13,3 +13,8 @@ padding: 24px  0;
 .imagem-cabecalho{
 width: 10%;
 }
+.item-lista-cabebalho{
+    display: inline-block;
+    margin: 0 16px;
+
+}
