@@ -6,7 +6,7 @@
  background-color: var(--cor-fundo);
  color: var(--cor-fontes) ;
  display: flex;
- justify-content: space-around;
+ justify-content: first baseline;
 
 }
 .imagem-cabecalho{
