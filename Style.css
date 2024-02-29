@@ -6,8 +6,9 @@
  background-color: var(--cor-fundo);
  color: var(--cor-fontes) ;
  display: flex;
- justify-content: first baseline;
-
+ justify-content: space-around;
+align-items: center;
+padding: 24px  0;
 }
 .imagem-cabecalho{
 width: 20%;
