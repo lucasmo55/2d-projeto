@@ -3,12 +3,12 @@
     --cor-fontes :#000000;
 }
 .cabecalho{
- background-color: var(--cor-fundo);
- color: var(--cor-fontes) ;
- display: flex;
- justify-content: space-around;
-align-items: center;
-padding: 24px  0;
+    background-color: var(--cor-fundo);
+    color: var(--cor-fontes) ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px  0;
 }
 .imagem-cabecalho{
 width: 10%;
