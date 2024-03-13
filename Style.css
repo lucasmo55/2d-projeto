@@ -35,6 +35,7 @@ width: 10%;
 .escola.div.conteudo{
     width: 35%;
 }
-.escola-titulo[
-    padding: 24px;
-]
+.escola-titulo{
+    padding: 24px 0;
+}
+   
