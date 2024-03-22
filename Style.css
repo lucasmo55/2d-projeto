@@ -40,6 +40,7 @@ width: 10%;
 }
 .estudande-imagem{
     width: 200px;
+    border-image: auto;
 }
 .estudante-icone{
     width: 24px;
