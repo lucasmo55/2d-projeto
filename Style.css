@@ -55,3 +55,11 @@ width: 10%;
 .estudante{
     background-color: #53AEC2;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
