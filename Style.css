@@ -52,3 +52,6 @@ width: 10%;
     display: grid; 
     grid-template-columns:25% 25% 25% 25%;
 } 
+.estudante{
+    background-color: #53AEC2;
+}
